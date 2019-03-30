@@ -4,6 +4,7 @@
 }
 body { 
   font-family: 'Open Sans', sans-serif;
+  font-family: 'Oswald', sans-serif;
 }
 
 article, aside, figure, footer, header, hgroup,
@@ -20,12 +21,12 @@ menu, nav, section { display: block; }
 }
 
 section {
-  width: 75%;
-  float: left;
+  width: 100%;
+  float: center;
 }
 aside {
-  width: 25%;
-  float: right;
+  width: 75%;
+  float: center;
 }
 
 section, aside {
